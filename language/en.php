@@ -28,6 +28,8 @@ $LANG_Appearance = 'Appearance';
 $LANG_Wallpaper = 'Wallpaper';
 $LANG_Designation = 'Designation';
 $LANG_Close = 'Close';
+$LANG_Work = 'Work';
+$LANG_Salary = 'Salary';
 
 $LANG_Profile = 'Profile';
 $LANG_Skills = 'Skills';
@@ -80,6 +82,16 @@ $LANG_Click_here_to_upload_property = 'Click here to upload property';
 $LANG_has_been_added_to_your_inventory = 'has been added to your inventory!';
 $LANG_taken_off = 'taken off';
 $LANG_You_have_taken_off_a_piece_of_equipment = 'You have taken off a piece of equipment.';
+
+$LANG_Looking_for_work = 'Looking for work';
+$LANG_Are_you_looking_for_work = 'Are you looking for work?';
+$LANG_How_much_energy_do_you_want_to_use = 'How much energy do you want to use?';
+$LANG_JOB_Success_1 = "You have earned";
+$LANG_JOB_Success_2 = "by working for";
+$LANG_JOB_Money_Sorter_at_the_Bank = 'Money Sorter at the Bank';
+$LANG_JOB_Money_Sorter_Description = 'As a Money Sorter, your job is to organize and sort through piles of cash at the bank. It\'s a meticulous task that requires concentration and attention to detail.';
+$LANG_JOB_Cleaner_in_the_hotel = 'Cleaner in the hotel';
+$LANG_JOB_Cleaner_Description = 'As a Cleaner in the hotel, your primary responsibility is to ensure that all guest rooms and public areas are clean, tidy, and well-maintained. This includes tasks such as vacuuming, dusting, changing bed linens, and replenishing toiletries. Attention to detail and a commitment to maintaining high standards of cleanliness are essential. Your efforts contribute significantly to the overall guest experience and satisfaction.';
 
 $LANG_Back_to_City = 'Back to City';
 $LANG_Back_to_Residential_Area = 'Back to Residential Area';

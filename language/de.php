@@ -28,6 +28,8 @@ $LANG_Appearance = 'Erscheinungsbild';
 $LANG_Wallpaper = 'Tapete';
 $LANG_Designation = 'Bezeichnung';
 $LANG_Close = 'Schließen';
+$LANG_Work = 'Arbeiten';
+$LANG_Salary = 'Gehalt';
 
 $LANG_Profile = 'Profil';
 $LANG_Skills = 'Fähigkeiten';
@@ -80,6 +82,16 @@ $LANG_Click_here_to_upload_property = 'Hier klicken um Unterschlupf hochzuladen'
 $LANG_has_been_added_to_your_inventory = 'wurde deinem Inventar hinzugefügt!';
 $LANG_taken_off = 'abgelegt';
 $LANG_You_have_taken_off_a_piece_of_equipment = 'Du hast ein Ausrüstungsteil abgelegt.';
+
+$LANG_Looking_for_work = 'Nach Arbeit suchen';
+$LANG_Are_you_looking_for_work = 'Suchst du nach Arbeit?';
+$LANG_How_much_energy_do_you_want_to_use = 'Wieviel Energie willst du nutzen?';
+$LANG_JOB_Success_1 = "Du hast";
+$LANG_JOB_Success_2 = "verdient.";
+$LANG_JOB_Money_Sorter_at_the_Bank = 'Geld-Sortierer';
+$LANG_JOB_Money_Sorter_Description = 'Als Geld-Sortierer ist es Deine Aufgabe, Bargeldstapel bei der Bank zu organisieren und zu sortieren. Es ist eine akribische Aufgabe, die Konzentration und Liebe zum Detail erfordert.';
+$LANG_JOB_Cleaner_in_the_hotel = 'Reinigungskraft';
+$LANG_JOB_Cleaner_Description = 'Als Reinigungskraft im Hotel besteht Ihre Hauptaufgabe darin, sicherzustellen, dass alle Gästezimmer und öffentlichen Bereiche sauber, ordentlich und gut gepflegt sind. Dazu gehören Aufgaben wie Staubsaugen, Abstauben, Wechseln der Bettwäsche und Auffüllen der Toilettenartikel. Aufmerksamkeit fürs Detail und ein Engagement für hohe Sauberkeitsstandards sind unerlässlich. Ihre Bemühungen tragen erheblich zur allgemeinen Gästeerfahrung und Zufriedenheit bei.';
 
 $LANG_Back_to_City = 'Zurück zur Stadt';
 $LANG_Back_to_Residential_Area = 'Zurück zum Wohnviertel';
